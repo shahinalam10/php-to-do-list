@@ -11,7 +11,7 @@ if (isset($_POST['submit'])){
     if($result){
         echo 'data insert successfully';
     }else{
-        echo 'error';
+        echo 'error insert';
     }
 }
 
